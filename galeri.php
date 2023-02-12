@@ -11,13 +11,13 @@ include 'include/navbar.php';
 <div class="row">
   <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
     <img
-      src="gmb2.jpg"
+      src="asset/images/gmb1.jpg"
       class="w-100 shadow-1-strong rounded mb-4"
       alt="Boat on Calm Water"
     />
 
     <img
-      src="gmb1.jpg"
+      src="asset/images/gmb2.jpg"
       class="w-100 shadow-1-strong rounded mb-4"
       alt="Wintry Mountain Landscape"
     />
@@ -25,13 +25,13 @@ include 'include/navbar.php';
 
   <div class="col-lg-4 mb-4 mb-lg-0">
     <img
-        src="gmb3.jpg"
+        src="asset/images/gmb3.jpg"
       class="w-100 shadow-1-strong rounded mb-4"
       alt="Mountains in the Clouds"
     />
 
     <img
-    src="gmb1.jpg"
+    src="asset/images/gmb3.jpg"
       class="w-100 shadow-1-strong rounded mb-4"
       alt="Boat on Calm Water"
     />
@@ -39,13 +39,13 @@ include 'include/navbar.php';
 
   <div class="col-lg-4 mb-4 mb-lg-0">
     <img
-    src="gmb2.jpg"
+    src="asset/images/gmb1.jpg"
       class="w-100 shadow-1-strong rounded mb-4"
       alt="Waves at Sea"
     />
 
     <img
-    src="gmb1.jpg"
+    src="asset/images/gmb2.jpg"
       class="w-100 shadow-1-strong rounded mb-4"
       alt="Yosemite National Park"
     />

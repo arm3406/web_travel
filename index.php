@@ -21,13 +21,13 @@
     <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active" data-bs-interval="2000">
-          <img src="gmb1.jpg" class="d-block w-100" alt="...">
+          <img src="asset/images/gmb1.jpg" class="d-block w-100" alt="...">
         </div>
         <div class="carousel-item" data-bs-interval="2000">
-          <img src="gmb2.jpg" class="d-block w-100" alt="...">
+          <img src="asset/images/gmb2.jpg" class="d-block w-100" alt="...">
         </div>
         <div class="carousel-item" data-bs-interval="2000">
-          <img src="gmb3.jpg" class="d-block w-100" alt="...">
+          <img src="asset/images/gmb3.jpg" class="d-block w-100" alt="...">
         </div>
       </div>
       <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
@@ -41,37 +41,64 @@
     </div>
   </div>
 
-  <div class="d-flex flex-column">
-    <div class="card" style="width: 18rem;">
-      <img src="logo 4.jpg" class="card-img-top" alt="...">
-      <div class="card-body">
+  <div class="d-flex flex-coloumn col-12">
+    <div class="card p-2" style="width: 35rem;">
+      <img src="asset/images/elf.jpg" class="card-img-top" alt="...">
+      <!-- <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
         <a href="#" class="btn btn-primary">Go somewhere</a>
-      </div>
+      </div> -->
     </div>
 
-
-    <div class="card" style="width: 18rem;">
-      <img src="logo 4.jpg" class="card-img-top" alt="...">
-      <div class="card-body">
+    <!-- <div class="card p-2 col" >
+      <img src="logo 4.jpg" class="card-img-top" alt="..."> -->
+      <div class="card-body p-2">
+        <h5 class="card-title">ELF</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <a href="#" class="btn btn-primary">readmore</a>
+      </div>
+    </div>
+  <div class="d-flex flex-coloumn col-12">
+    <div class="card p-2" style="width: 35rem;">
+      <img src="asset/images/avanza.jpg" class="card-img-top" alt="...">
+      <!-- <div class="card-body">
         <h5 class="card-title">Card title</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
         <a href="#" class="btn btn-primary">Go somewhere</a>
-      </div>
+      </div> -->
     </div>
 
-
-    <div class="card" style="width: 18rem;">
-      <img src="logo 4.jpg" class="card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title">Card title</h5>
+    <!-- <div class="card p-2 col" >
+      <img src="logo 4.jpg" class="card-img-top" alt="..."> -->
+      <div class="card-body p-2">
+        <h5 class="card-title">Avanza</h5>
         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        <a href="#" class="btn btn-primary">readmore</a>
       </div>
-    </div>
   </div>
+    
 
+      <div class="d-flex flex-coloumn col-12">
+        <div class="card p-2" style="width: 35rem;">
+          <img src="asset/images/grandmax.jpg" class="card-img-top" alt="...">
+          <!-- <div class="card-body">
+            <h5 class="card-title">Card title</h5>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+          </div> -->
+        </div>
+    
+        <!-- <div class="card p-2 col" >
+          <img src="logo 4.jpg" class="card-img-top" alt="..."> -->
+          <div class="card-body p-2">
+            <h5 class="card-title">GrandMax</h5>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <a href="#" class="btn btn-primary">readmore</a>
+          </div>
+      </div>
+
+</div>
 
 
   <!-- footer -->

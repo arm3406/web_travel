@@ -91,15 +91,15 @@
                    <div class="col-md-5 col-lg-4 ml-lg-0 text-center text-md-end">
 
                        <!-- Whatsapp -->
-                       <a class="btn btn-outline-light btn-floating m-1" class="text-dark" role="button"><img src="logo 4.jpg" style="width: 2rem;"></img></a>
+                       <a class="btn btn-outline-light btn-floating m-1" class="text-dark" href="https://api.whatsapp.com/send/?phone=6285878961135&text&type=phone_number&app_absent=0" role="button"><img src="asset/images/whatsapp.png" style="width: 2rem;"></img></a>
 
 
                        <!-- Instagram -->
-                       <a class="btn btn-outline-light btn-floating m-1" class="text-dark" role="button"><img src="logo 4.jpg" style="width: 2rem;"></img></a>
+                       <a class="btn btn-outline-light btn-floating m-1" class="text-dark" href="https://www.instagram.com/rizqiwijayatransportation/" role="button"><img src="asset/images/instagram.png" style="width: 2rem;"></img></a>
 
 
                        <!-- Facebook -->
-                       <a class="btn btn-outline-light btn-floating m-1" class="text-dark" role="button"><img src="logo 4.jpg" style="width: 2rem;"></img></a>
+                       <a class="btn btn-outline-light btn-floating m-1" class="text-dark" href="https://www.facebook.com/profile.php?id=100086250685835" role="button"><img src="asset/images/facebook.png" style="width: 2rem;"></img></a>
 
                    </div>
                    <!-- Grid column -->
